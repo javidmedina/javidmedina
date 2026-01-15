@@ -1,9 +1,9 @@
-## Hi there 👋
+## yo 👋
 
-<!--
-**javidmedina/javidmedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is javid, and I.T is something I've been interested in for a very long time. I hope to go to MIT one day. I have made a few projects; I'm currently working on an operating system called LucidOS.
 
-Here are some ideas to get you started:
+I'll type more here soon 
+<!--\Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
