@@ -2,7 +2,7 @@
 
 My name is javid, and I.T is something I've been interested in for a very long time. I hope to go to MIT one day. I have made a few projects; I'm currently working on an operating system called LucidOS.
 
-I'll type more here soon 
+I'll type more here soon haha
 <!--\Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
