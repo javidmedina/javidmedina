@@ -1,4 +1,4 @@
-## yo 👋
+## yoo 👋
 
 My name is javid, and I’ve been passionate about information technology for a long time. I hope to attend MIT one day to study and turn my ideas in IT into real, working projects. I’ve built several projects so far, and I’m currently developing an operating system called LucidOS.
 
