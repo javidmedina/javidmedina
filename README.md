@@ -1,6 +1,6 @@
 ## yoo 👋
 
-My name is javid, and I’ve been passionate about information technology for a long time. I hope to attend MIT one day to study and turn my ideas relating to I.T into real, working projects. I’ve built several projects so far, and I’m currently developing an operating system called LucidOS.
+My name is javid, and I’ve been passionate about information technology for a long time. I hope to attend MIT one day to study and turn my ideas relating to I.T into real, working projects. I’ve built several projects so far, and I’m currently developing an operating system called LucidOS, beta coming soon.
 
 
 <!--\Here are some ideas to get you started:
