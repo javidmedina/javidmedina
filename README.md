@@ -1,7 +1,10 @@
 ## yoo 👋
 
-My name is javid, and I’ve been passionate about information technology for a long time. I hope to attend MIT one day to study and turn my ideas relating to I.T into real, working projects. I’ve built several projects so far, and I’m currently developing an operating system called LucidOS, beta coming soon.
+My name is Javid, and I’ve been passionate about information technology for a long time. I hope to attend MIT one day to study and turn my ideas relating to I.T into real, working projects, well I mean I kinda already am right now or atleast trying. I’ve built several projects so far, which are:
 
+LucidOS (Ubuntu-based Linux Distro), "Inspired by macOS, CuteFishOS, and Windows, this distribution was designed to combine the smoothness of macOS with the capability to run both Linux software and Windows, and a very small majority of macOS software. "
+
+Transcend (DAW written in C++), adding some next-gen features it gonna be straight heat during the summer when I release
 
 <!--\Here are some ideas to get you started:
 
